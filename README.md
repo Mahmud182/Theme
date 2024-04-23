@@ -1,0 +1,2 @@
+# Theme
+Gadget hub theme
